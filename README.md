@@ -24,4 +24,4 @@ Blah
 blah
 ###Copyright
 
-2014.copyright
+2014.copyright. All rights reserved.
